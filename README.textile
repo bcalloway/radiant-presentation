@@ -1,0 +1,5 @@
+h1.  Radiant CMS Presentation
+
+These are slides used during a presentation for the Asheville Ruby Users Group (Asheville.rb) on Radiant CMS.
+
+The slides were prepared using "Showoff":http://github.com/schacon/showoff.
