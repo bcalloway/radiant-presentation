@@ -1,0 +1,7 @@
+{
+  "name": "Radiant CMS",
+  "sections": [
+    {"section":"one"},
+    {"section":"two"}
+  ]
+}

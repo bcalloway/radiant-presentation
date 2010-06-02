@@ -1,0 +1,21 @@
+body {
+  background: #000;
+}
+
+#preso, .slide {
+  background: none;
+  border: none;
+  color: #fff;
+}
+.commandline code.command {
+  color: #fff;
+}
+
+pre {
+  font-size: 2.5em;
+}
+
+#footer {
+  background: none;
+  color: #ccc;
+}
