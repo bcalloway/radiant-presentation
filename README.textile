@@ -3,3 +3,34 @@ h1.  Radiant CMS Presentation
 These are slides used during a presentation for the Asheville Ruby Users Group (Asheville.rb) on Radiant CMS.
 
 The slides were prepared using "Showoff":http://github.com/schacon/showoff.
+
+h3. To install Showoff
+
+<pre><code>
+  sudo gem install sinatra
+  sudo gem install showoff
+</code></pre>
+
+
+h3. To run the slideshow
+
+<pre><code>
+  cd /path/to/slideshow
+  showoff serve
+</code></pre>
+
+The slideshow will run at http://localhost:9090.
+
+h3. To run the radiant demo app
+
+<pre><code>
+  cd /path/to/slideshow/radiant_demo
+  script/server
+</code></pre>
+
+The demo app will run at http://localhost:3000
+
+Radiant admin area is at http://localhost:3000/admin
+
+u: admin
+p: radiant
